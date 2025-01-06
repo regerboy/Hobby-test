@@ -1,4 +1,3 @@
-
 Address translation is the process by which a computer system maps logical addresses (or virtual addresses) used by programs to physical addresses used by the hardware (e.g., the CPU and memory).
 A hobby kernel is a term often used to describe an operating system kernel that is created by an individual or a small group of enthusiasts, typically for learning purposes, experimentation, or as a personal project.
 The operating system provides a layer of abstraction between hardware and software, allowing applications to interact with hardware in a uniform and simplified manner.
